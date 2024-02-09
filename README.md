@@ -1,0 +1,2 @@
+# ast_summarize
+Astrategyの事例集のサマライズを行う
